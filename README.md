@@ -161,7 +161,7 @@ school-chatbot/
 ### Step 1 — Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/school-chatbot.git
+git clone https://github.com/vanshR18/school-chatbot.git
 cd school-chatbot
 
 # Create virtual environment
